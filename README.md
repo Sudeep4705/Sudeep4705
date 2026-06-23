@@ -26,8 +26,8 @@
 
 Full Stack Developer specializing in **MERN stack** with hands-on experience building production-ready applications. I love crafting scalable backend architectures, building intuitive UIs, and exploring **Agentic AI** to solve real-world problems.
 
-- 🔭 Currently working on an **AI document indexing pipeline** using LangChain, Pinecone & Voyage AI  
-- 🌱 Expanding my knowledge in **vector databases** and **TypeScript**  
+- 🔭 Currently working on an **AI document indexing pipeline** using LangChain, Pinecone, Qdrant & Voyage AI  
+- 🌱 Expanding my knowledge in **vector databases** 
 - 🏆 Top 100 out of 7,000+ participants in **CuraLink Hackathon v2.0**  
 - 💬 Ask me about **MERN stack, REST APIs, JWT auth, or AI integration**
 
