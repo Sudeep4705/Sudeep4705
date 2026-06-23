@@ -98,10 +98,7 @@ Bachelor of Computer Applications	Mangalore University	7.33	Sep 2020 – Sep 202
 
 🏆 Certificate of Distinction – CuraLink Hackathon v2.0 by Humanity Founders (Top 100 out of 7,000+ participants)
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudeep-mern&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-mern&layout=compact&theme=radical&hide_border=true" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-mern&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
-📈 Weekly Coding Stats
+
 
 
 🤝 Let's Connect
