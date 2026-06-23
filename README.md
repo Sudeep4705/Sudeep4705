@@ -1,26 +1,20 @@
 # Hi, I'm Sudeep 👋
 
-MERN Stack Developer
+MERN Stack Developer based in Bengaluru, India. I build full-stack web apps and explore Agentic AI.
 
-## 🚀 Portfolio
-https://my-port-folio11.netlify.app/
+- 🔭 Working on an AI document indexing pipeline (LangChain · Pinecone · Voyage AI)
+- 🌱 Currently learning more about vector databases and TypeScript
+- 💼 [Portfolio](https://my-port-folio11.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/sudee-p/)
 
-## 💼 LinkedIn
-https://www.linkedin.com/in/sudee-p/
+---
 
-## 🛠️ Tech Stack
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-- Tailwind CSS
-- PostgreSQL
-- Prisma
-- Docker
-- Agentic AI
+## Tech Stack
 
-## 📊 Weekly Coding Stats
+React · Node.js · Express · MongoDB · PostgreSQL · Prisma · Tailwind CSS · Docker · LangChain
+
+---
+
+## Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 
