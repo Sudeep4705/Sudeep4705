@@ -88,32 +88,32 @@ Full Stack Developer specializing in **MERN stack** with hands-on experience bui
 ### 🛡️ SentinelAI – Security Review Platform
 > Built an overnight security review platform for industrial sites. Visualizes trespassing, fence alerts, and badge swipe events on a Leaflet map. Groq-powered AI agent chains multiple tool calls to investigate events and returns a structured report with suspicion level, action, and operator approve/reject workflow.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://your-demo-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-repo-link)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://senti-nal-ai.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudeep4705/SentinalAi)
 
 ---
 
 ### 🏥 MediNova – AI Medical Research Assistant
 > Full-stack AI medical research assistant for simplified health information. Fetches real-time data from PubMed, OpenAIx, and ClinicalTrials APIs using Group summaries. Interactive chatbot for follow-up questions on diseases, papers, and clinical trials. JWT auth with protected routes and smooth UI using Tailwind CSS and Framer Motion.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://your-demo-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-repo-link)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://curalink-rust.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudeep4705/Medinova)
 
 ---
 
 ### ❤️ Go4Give – Full Stack Charity Platform
 > Developed a full-stack charity platform enabling users to donate securely to NGOs and orphanages. Integrated Razorpay payment gateway with automated receipt and certificate generation. Implemented JWT authentication, protected routes, and backend validation for secure transactions.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://your-demo-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-repo-link)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://go4give.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudeep4705/Go4Give)
 
 ---
 
 ### 🎥 ZoomClone – Video Conferencing App
 > Real-time video conferencing application enabling users to create and join meeting rooms. Implemented peer-to-peer audio and video streaming using WebRTC with Socket.io for signaling. Integrated live screen sharing with optimized low-latency communication between participants.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://your-demo-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-repo-link)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://zoom-clo-ne.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudeep4705/ZoomClone)
 
 </details>
 
