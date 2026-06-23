@@ -156,7 +156,7 @@ Full Stack Developer specializing in **MERN stack** with hands-on experience bui
 
 
 
-## 📈 Weekly Coding Stats
+## 📈  Weekly Coding Stats By wakatime ext
 
 <!--START_SECTION:waka-->
 
