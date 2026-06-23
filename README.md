@@ -154,26 +154,11 @@ Full Stack Developer specializing in **MERN stack** with hands-on experience bui
 
 ---
 
-## 📊 GitHub Stats
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-mern&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 📈 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 34 mins  ████████████████░░░░░░░   68.20%
-TypeScript   3 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░   18.40%
-Python       1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░    6.30%
-HTML         45 mins         ██░░░░░░░░░░░░░░░░░░░░░    3.80%
-CSS          28 mins         █░░░░░░░░░░░░░░░░░░░░░░    2.10%
-<!--START_SECTION:waka-->
-
 ```txt
 From: 15 June 2026 - To: 22 June 2026
 
