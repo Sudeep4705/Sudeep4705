@@ -5,7 +5,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudeep-mern&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/sudee-p/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
