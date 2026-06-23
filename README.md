@@ -1,20 +1,119 @@
-# Hi, I'm Sudeep 👋
+Hi, I'm Sudeep 👋
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Agentic+AI+Enthusiast;Building+Production+Ready+Apps" alt="Typing SVG" /> </div><p align="center"> <img src="https://komarev.com/ghpvc/?username=sudeep-mern&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <a href="https://www.linkedin.com/in/sudee-p/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://my-port-folio11.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=web&logoColor=white" alt="Portfolio" /> </a> <a href="https://github.com/sudeep-mern"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="mailto:sudeep.mern@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+🚀 About Me
+Full Stack Developer specializing in MERN stack with hands-on experience building production-ready applications. I love crafting scalable backend architectures, building intuitive UIs, and exploring Agentic AI to solve real-world problems.
 
-MERN Stack Developer based in Bengaluru, India. I build full-stack web apps and explore Agentic AI.
+🔭 Currently working on an AI document indexing pipeline using LangChain, Pinecone & Voyage AI
 
-- 🔭 Working on an AI document indexing pipeline (LangChain · Pinecone · Voyage AI)
-- 🌱 Currently learning more about vector databases and TypeScript
-- 💼 [Portfolio](https://my-port-folio11.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/sudee-p/)
+🌱 Expanding my knowledge in vector databases and TypeScript
 
----
+🏆 Top 100 out of 7,000+ participants in CuraLink Hackathon v2.0
 
-## Tech Stack
+💬 Ask me about MERN stack, REST APIs, JWT auth, or AI integration
 
-React · Node.js · Express · MongoDB · PostgreSQL · Prisma · Tailwind CSS · Docker · LangChain
+🛠️ Tech Stack
+<div align="center">
+Frontend
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white
 
----
+Backend & Database
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
 
-## Weekly Coding Stats
+Tools & DevOps
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%2520web%2520tokens&logoColor=white
+https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rest-api&logoColor=white
+
+AI & Emerging Tech
+https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
+https://img.shields.io/badge/Pinecone-1A1A2E?style=for-the-badge&logo=pinecone&logoColor=white
+https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white
+https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white
+
+</div>
+📌 Featured Projects
+<div align="center">
+Project	Stack	Highlights
+SentinelAI
+Security Review Platform	MERN + Groq + Leaflet	AI-powered security event investigation with structured reports & operator approval workflow
+MediNova
+AI Medical Research Assistant	MERN + Groq + JWT	Real-time data from PubMed, OpenAIx & ClinicalTrials APIs with interactive chatbot
+Go4Give
+Full Stack Charity Platform	MERN + Razorpay + JWT	Secure donations with automated receipts, certificates & NGO review system
+ZoomClone
+Video Conferencing App	MERN + WebRTC + Socket.io	P2P audio/video streaming with live screen sharing & low-latency communication
+</div><details> <summary><b>🔍 Click to expand project details</b></summary>
+🛡️ SentinelAI – Security Review Platform
+Built an overnight security review platform for industrial sites. Visualizes trespassing, fence alerts, and badge swipe events on a Leaflet map. Groq-powered AI agent chains multiple tool calls to investigate events and returns a structured report with suspicion level, action, and operator approve/reject workflow.
+
+https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+
+🏥 MediNova – AI Medical Research Assistant
+Full-stack AI medical research assistant for simplified health information. Fetches real-time data from PubMed, OpenAIx, and ClinicalTrials APIs using Group summaries. Interactive chatbot for follow-up questions on diseases, papers, and clinical trials. JWT auth with protected routes and smooth UI using Tailwind CSS and Framer Motion.
+
+https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+
+❤️ Go4Give – Full Stack Charity Platform
+Developed a full-stack charity platform enabling users to donate securely to NGOs and orphanages. Integrated Razorpay payment gateway with automated receipt and certificate generation. Implemented JWT authentication, protected routes, and backend validation for secure transactions.
+
+https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+
+🎥 ZoomClone – Video Conferencing App
+Real-time video conferencing application enabling users to create and join meeting rooms. Implemented peer-to-peer audio and video streaming using WebRTC with Socket.io for signaling. Integrated live screen sharing with optimized low-latency communication between participants.
+
+https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white
+
+</details>
+💼 Experience
+<div align="center">
+Role	Company	Duration
+Full Stack Developer Trainee	Celestial V Solutions, Bengaluru	Dec 2024 – Mar 2025
+</div>
+Trained in MERN stack development using React.js, Node.js, Express.js, and MongoDB. Built responsive UI components and practiced integrating applications with REST APIs. Worked on authentication, CRUD operations, debugging, and full-stack development fundamentals.
+
+🎓 Education
+<div align="center">
+Degree	Institution	CGPA	Duration
+Master of Computer Applications	CMR University, Bengaluru	8.23	Jan 2024 – Feb 2026
+Bachelor of Computer Applications	Mangalore University	7.33	Sep 2020 – Sep 2023
+</div>
+🏅 Certifications & Achievements
+🎓 Full Stack Web Development – Apna College (Oct 2024)
+
+🏆 Certificate of Distinction – CuraLink Hackathon v2.0 by Humanity Founders (Top 100 out of 7,000+ participants)
+
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudeep-mern&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-mern&layout=compact&theme=radical&hide_border=true" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-mern&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
+📈 Weekly Coding Stats
+
+
+🤝 Let's Connect
+<div align="center">
+https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+</div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sudeep-mern&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" /> </div>
+<div align="center"> <i>“Building the future, one commit at a time.”</i> <br/><br/> <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat" /> <img src="https://img.shields.io/badge/Powered%20by-Coffee-6F4E37?style=flat&logo=buymeacoffee&logoColor=white" /> </div>
 
 <!--START_SECTION:waka-->
 
