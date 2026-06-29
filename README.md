@@ -78,7 +78,7 @@ Full Stack Developer specializing in **MERN stack** with hands-on experience bui
 | **SentinelAI** <br/> Security Review Platform | MERN + Groq + Leaflet | AI-powered security event investigation with structured reports & operator approval workflow |
 | **MediNova** <br/> AI Medical Research Assistant | MERN + Groq + JWT | Real-time data from PubMed, OpenAIx & ClinicalTrials APIs with interactive chatbot |
 | **Go4Give** <br/> Full Stack Charity Platform | MERN + Razorpay + JWT | Secure donations with automated receipts, certificates & NGO review system |
-| **ZoomClone** <br/> Video Conferencing App | MERN + WebRTC + Socket.io | P2P audio/video streaming with live screen sharing & low-latency communication |
+| **Nexus** <br/> AI RAG Chatbot | MERN + Groq + Qdrant + PostgreSQL | RAG-based document querying (PDF/Excel) with semantic search, web search, calculator & YouTube tools, JWT auth, and chat history persistence |
 
 </div>
 
@@ -109,14 +109,13 @@ Full Stack Developer specializing in **MERN stack** with hands-on experience bui
 
 ---
 
-### 🎥 ZoomClone – Video Conferencing App
-> Real-time video conferencing application enabling users to create and join meeting rooms. Implemented peer-to-peer audio and video streaming using WebRTC with Socket.io for signaling. Integrated live screen sharing with optimized low-latency communication between participants.
+### 🧠 Nexus – AI RAG Chatbot
+> Built a full-stack RAG chatbot enabling users to query any documents (PDFs/Excel) with AI-powered retrieval. Implemented document ingestion with Qdrant vector DB and Voyage AI embeddings for semantic search. Integrated Groq LLM with tool calling (WebSearch, Calculator, YouTube) and conversation memory using PostgreSQL. Built JWT authentication, chat history persistence, file uploads, and responsive UI with Tailwind CSS.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://zoom-clo-ne.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudeep4705/ZoomClone)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=flat&logo=vercel&logoColor=white)](https://nexus-gules-rho.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sudeep4705/Nexus)
 
 </details>
-
 ---
 
 ## 💼 Experience
